@@ -1,4 +1,5 @@
 
+
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
@@ -6,16 +7,13 @@ body {
     padding: 0;
     background-color: white;
     color: #333;
-    display: flex;
-    justify-content: center;
+}
+main {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-.container {
-    width: 100%;
-    max-width: 900px;
-    background: white;
-    padding: 20px;
-}
 
 header {
     text-align: center;
